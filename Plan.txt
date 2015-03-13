@@ -1,0 +1,3 @@
+1)- Accepter une demande de certificat ( signature numeerique)
+2)- Chercher dans un fichier d'il y a un certificat valide
+3)- Obtenir  la liste des certificats valides ou perimes.
